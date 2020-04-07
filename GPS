@@ -3,7 +3,7 @@
     http://www.electronicwings.com
 */
 
-#include<pic18f4550.h>
+#include<pic18f43k22.h>
 #include<string.h>
 #include<stdio.h>
 #include<stdlib.h>
