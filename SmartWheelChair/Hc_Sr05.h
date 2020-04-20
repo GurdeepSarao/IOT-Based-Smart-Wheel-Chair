@@ -1,6 +1,6 @@
 /* 
  * File:   Hc_Sr05.h
- * Author: Jass khaira
+ * Author: Gurdeep Sarao
  *
  * Created on March 9, 2020, 3:32 AM
  */
