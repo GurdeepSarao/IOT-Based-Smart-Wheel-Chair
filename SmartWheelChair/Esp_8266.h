@@ -1,6 +1,6 @@
 /* 
  * File:   Esp_8266.h
- * Author: Jass khaira
+ * Author: Gurdeep Sarao
  *
  * Created on March 26, 2020, 6:25 AM
  */
