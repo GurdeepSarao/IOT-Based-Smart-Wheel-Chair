@@ -1,6 +1,6 @@
 /* 
  * File:   newfile.h
- * Author: Jass khaira
+ * Author: Gurdeep Sarao
  *
  * Created on April 6, 2020, 4:52 PM
  */
